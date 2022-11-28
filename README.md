@@ -1,3 +1,5 @@
+Tested on 22.04 LTS
+
 # Install WSL
 - Open Powershell as Administrator type: `wsl --install`
 - This command will enable the required optional components, download the latest Linux kernel, set WSL 2 as your default, and install a Linux distribution for you (Ubuntu by default)
