@@ -38,7 +38,7 @@
   `# xfce`
   `startxfce4`
 
-- Start RDP Service: `sudo /etc/init.d/xrdp start`
+- Start RDP Service: `sudo /etc/init.d/xrdp restart`
 
 # Refrences:
 - https://github.com/davidbombal/wsl2/blob/main/ubuntu_gui_youtube
