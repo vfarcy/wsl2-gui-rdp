@@ -42,7 +42,7 @@ Tested on 22.04 LTS
 
 - Start RDP Service: `sudo /etc/init.d/xrdp restart`
 
-## Edit
+## Connect
 Launch the Windows RDP tool and connect to localhost:3390
 
 # Refrences:
