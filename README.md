@@ -42,6 +42,9 @@ Tested on 22.04 LTS
 
 - Start RDP Service: `sudo /etc/init.d/xrdp restart`
 
+## Edit
+Launch the Windows RDP tool and connect to localhost:3390
+
 # Refrences:
 - https://github.com/davidbombal/wsl2/blob/main/ubuntu_gui_youtube
 - https://docs.microsoft.com/en-us/windows/wsl/install
